@@ -1,6 +1,6 @@
 # Travel Grants for Science Conferences (India)
 
-This repository lists **major travel grants available to Indian and international students and researchers** for attending **scientific conferences, workshops, and seminars**.
+This repository lists **major travel grants available to Indian students and researchers** for attending **scientific conferences, workshops, and seminars**.
 
 >  Most grants require the applicant to be presenting a paper or actively participating in the event. Apply well in advance (at least 2–3 months before the conference date).
 
