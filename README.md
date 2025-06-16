@@ -1,4 +1,4 @@
-# 🌍 Travel Grants for Science Conferences (India + International)
+# Travel Grants for Science Conferences (India)
 
 This repository lists **major travel grants available to Indian and international students and researchers** for attending **scientific conferences, workshops, and seminars**.
 
