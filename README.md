@@ -66,30 +66,12 @@ This repository lists **major travel grants available to Indian students and res
 
 ---
 
-###  DBT CTEP (Conference, Travel, Exhibition & Popular Lectures)
-- **Agency**: Department of Biotechnology (DBT)
-- **Eligibility**: Biotech researchers/students attending events.
-- **Coverage**: Partial support for travel, registration, accommodation.
-- **Deadline**: 2 months before event.
-- **More Info**: [indiascienceandtechnology.gov.in](https://indiascienceandtechnology.gov.in)
-
----
-
 ###  Microsoft Research India – Student Travel Grants
 - **Agency**: Microsoft Research India
 - **Eligibility**: Full-time Indian students presenting at top-tier international conferences.
 - **Coverage**: Travel, accommodation, and registration.
 - **Deadline**: At least 45 days before conference.
 - **More Info**: [microsoft.com](https://www.microsoft.com/en-in/research/academic-program/)
-
----
-
-###  IISc Student Travel Grant
-- **Agency**: ODAA, IISc
-- **Eligibility**: Registered PhD students at IISc (after comprehensive exam).
-- **Coverage**: Partial support for research presentations.
-- **Deadline**: Rolling.
-- **More Info**: [odaa.iisc.ac.in](https://odaa.iisc.ac.in)
 
 ---
 
