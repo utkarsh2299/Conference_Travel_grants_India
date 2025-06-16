@@ -2,13 +2,13 @@
 
 This repository lists **major travel grants available to Indian and international students and researchers** for attending **scientific conferences, workshops, and seminars**.
 
-> 📌 Most grants require the applicant to be presenting a paper or actively participating in the event. Apply well in advance (at least 2–3 months before the conference date).
+>  Most grants require the applicant to be presenting a paper or actively participating in the event. Apply well in advance (at least 2–3 months before the conference date).
 
 ---
 
-## 🇮🇳 Major Indian Travel Grants
+##  Major Indian Travel Grants
 
-### 🔬 INSA International Travel Support (ITS) Scheme
+###  INSA International Travel Support (ITS) Scheme
 - **Agency**: Indian National Science Academy (INSA)
 - **Eligibility**: 
   - Indian nationals in permanent positions.
@@ -19,7 +19,7 @@ This repository lists **major travel grants available to Indian and internationa
 
 ---
 
-### 🔬 SERB International Travel Scheme
+###  SERB International Travel Scheme
 - **Agency**: SERB, DST, Govt. of India
 - **Eligibility**: Indian researchers presenting or chairing at international scientific events.
 - **Coverage**: Partial/full airfare reimbursement.
@@ -28,7 +28,7 @@ This repository lists **major travel grants available to Indian and internationa
 
 ---
 
-### 🧬 DBT Travel Grant
+###  DBT Travel Grant
 - **Agency**: Department of Biotechnology (DBT)
 - **Eligibility**: Biotechnology researchers/students with accepted papers.
 - **Coverage**: Airfare and registration (partial/full).
@@ -37,7 +37,7 @@ This repository lists **major travel grants available to Indian and internationa
 
 ---
 
-### 🧪 CSIR International Travel Grant
+###  CSIR International Travel Grant
 - **Agency**: Council of Scientific and Industrial Research (CSIR)
 - **Eligibility**: Indian PhD students and postdocs with accepted international papers.
 - **Coverage**: Travel, registration, visa charges.
@@ -46,7 +46,7 @@ This repository lists **major travel grants available to Indian and internationa
 
 ---
 
-### 💼 TATA Trusts Travel Grant
+### TATA Trusts Travel Grant
 - **Agency**: TATA Trusts
 - **Eligibility**: Indian nationals presenting or attending training at international scientific events.
 - **Coverage**: Partial travel and conference funding.
@@ -55,43 +55,9 @@ This repository lists **major travel grants available to Indian and internationa
 
 ---
 
-## 🌐 International Travel Grants
+##  Smaller / Institutional Grants
 
-### 🧬 Genetics Society: Junior Scientist Conference Grant
-- **Agency**: Genetics Society (UK)
-- **Eligibility**: All nationalities and career stages.
-- **Coverage**: GBP 500–750 (travel, registration, accommodation).
-- **Deadline**: Rolling.
-- **More Info**: [genetics.org.uk](https://genetics.org.uk/grants/junior-scientist-conference-grants/)
-
----
-
-### 🌱 British Ecological Society Training and Travel Grants
-- **Agency**: British Ecological Society
-- **Eligibility**: PhD students attending workshops.
-- **Coverage**: GBP 500
-- **More Info**: [britishecologicalsociety.org](https://www.britishecologicalsociety.org/content/training-and-travel-grants/)
-
----
-
-### 🧫 The Company of Biologists Travel Grant
-- **Agency**: The Company of Biologists
-- **Eligibility**: Students and early-career researchers.
-- **Coverage**: GBP 800 (travel + registration).
-- **More Info**: [sebiology.org](https://www.sebiology.org/grants/grant-overview.html)
-
----
-
-### 🧪 Hello Bio Travel Grant
-- **Agency**: Hello Bio
-- **Eligibility**: All career levels.
-- **More Info**: [hellobio.com](https://hellobio.com/scientist-grants-travel-grants-and-awards)
-
----
-
-## 🇮🇳 Smaller / Institutional Grants
-
-### 🏛️ SERB Assistance to Professional Bodies & Seminars
+###  SERB Assistance to Professional Bodies & Seminars
 - **Agency**: SERB, DST
 - **Eligibility**: Institutions/organizations organizing scientific events.
 - **Coverage**: Support for organizing and student participation.
@@ -100,7 +66,7 @@ This repository lists **major travel grants available to Indian and internationa
 
 ---
 
-### 🧬 DBT CTEP (Conference, Travel, Exhibition & Popular Lectures)
+###  DBT CTEP (Conference, Travel, Exhibition & Popular Lectures)
 - **Agency**: Department of Biotechnology (DBT)
 - **Eligibility**: Biotech researchers/students attending events.
 - **Coverage**: Partial support for travel, registration, accommodation.
@@ -109,7 +75,7 @@ This repository lists **major travel grants available to Indian and internationa
 
 ---
 
-### 💻 Microsoft Research India – Student Travel Grants
+###  Microsoft Research India – Student Travel Grants
 - **Agency**: Microsoft Research India
 - **Eligibility**: Full-time Indian students presenting at top-tier international conferences.
 - **Coverage**: Travel, accommodation, and registration.
@@ -118,7 +84,7 @@ This repository lists **major travel grants available to Indian and internationa
 
 ---
 
-### 🎓 IISc Student Travel Grant
+###  IISc Student Travel Grant
 - **Agency**: ODAA, IISc
 - **Eligibility**: Registered PhD students at IISc (after comprehensive exam).
 - **Coverage**: Partial support for research presentations.
@@ -127,7 +93,7 @@ This repository lists **major travel grants available to Indian and internationa
 
 ---
 
-### 🌏 SAI Conferences Travel Support
+###  SAI Conferences Travel Support
 - **Agency**: SAI Conferences
 - **Eligibility**: Attendees of SAI-organized conferences.
 - **Coverage**: Access to external funding sources + guidance.
@@ -136,12 +102,12 @@ This repository lists **major travel grants available to Indian and internationa
 
 ---
 
-## 🧭 Contribution
+##  Contribution
 
 Know of a grant that’s missing here? Open a pull request or raise an issue to help expand this list for others!
 
 ---
 
-## 📄 License
+##  License
 
 This repository is open-sourced under the [MIT License](LICENSE).
